@@ -1,0 +1,10 @@
+p{
+	border:green;
+}
+.border{
+	border:5px dotted yellow;
+}
+#back{
+	background-color: #f05abc;
+}
+
